@@ -12,9 +12,8 @@ Te voy a hacer un pequeño resumen sobre mí
 * ✉️  Puedes contactar conmigo a traves de [noaperona@gmail.com](mailto:noaperona@gmail.com)
 * 🧠  Actualmente estoy aprendiendo Phyton y Java, y tengo en pendientes muuuucho más.
 * ⚡  Aunque mi primer trabajo con 18 fue de programadora de páginas web, usando HTML, un poco de JavaScrip y los inicios del CSS, solo estuve durante un año
-      y mi vida tras eso dio muchos giros, haciendome trabar de Auxiliar administrativo, Marketing telefónico, Policia militar y hasta tuveun par de años
-      mi propia tintorería. En los últimos años me saque el Graduado en Nutrición Humana y Dietética, y viendo los programas excesivamente pobres que había, me decidí
-      volver a estudiar programación, para poder crear mis propios programas para atender bien a mis pacientes y a la vez, ayudar a otros profesionales.
+      y mi vida tras eso dio muchos giros, trabajé, entre otros, como Auxiliar administrativo, en Marketing telefónico, también estuve cuatro años como Policia Militar 
+      y hasta tuve un par de años mi propia tintorería. En los últimos años me saque el Graduado en Nutrición Humana y Dietética, y viendo los programas excesivamente       pobres que había, me decidí volver a estudiar programación, para poder crear mis propios programas para atender bien a mis pacientes y a la vez, ayudar a otros         profesionales.
 
 ### Skills aprendidas
 <p align="left">
