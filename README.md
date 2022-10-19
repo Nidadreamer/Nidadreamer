@@ -11,9 +11,9 @@ Te voy a hacer un pequeño resumen sobre mí
 * 🖥️  En estos momentos no tengo un porfolio, pero espero desarrollarlo pronto [Mi porfolio llegará algún día](http://esperese.como)
 * ✉️  Puedes contactar conmigo a traves de [noaperona@gmail.com](mailto:noaperona@gmail.com)
 * 🧠  Actualmente estoy aprendiendo Python y Java, y tengo en pendientes muuuucho más.
-* ⚡  Aunque mi primer trabajo con 18 fue de programadora de páginas web, usando HTML, un poco de JavaScrip y los inicios del CSS, solo estuve durante un año
-      y mi vida tras eso dio muchos giros, trabajé, entre otros, como Auxiliar administrativo, en Marketing telefónico, también estuve cuatro años como Policia Militar 
-      y hasta tuve un par de años mi propia tintorería. En los últimos años me saque el Graduado en Nutrición Humana y Dietética, y viendo los programas excesivamente
+* ⚡  Aunque mi primer trabajo con 18 años fue de programadora de páginas web usando HTML, un poco de JavaScript y los inicios del CSS, solo estuve durante un año
+      y mi vida tras eso dio muchos giros, trabajé entre otros puestos, como Auxiliar administrativo, en Marketing telefónico, también estuve cuatro años como Policia Militar 
+      y hasta tuve un par de años mi propia tintorería. En los últimos años me saqué el Graduado en Nutrición Humana y Dietética, y viendo los programas excesivamente
       pobres que había, me decidí volver a estudiar programación, para poder crear mis propios programas para atender bien a mis pacientes y a la vez, ayudar a otros
       profesionales.
 
