@@ -8,7 +8,7 @@ Junior web developer
 Te voy a hacer un pequeño resumen sobre mí
 
 * 🌍  Actualmente resido en Alicante, España
-* 🖥️  En estos momentos no tengo un porfolio, pero espero desarrollarlo pronto [My porfolio llegará algún día](http://esperese.como)
+* 🖥️  En estos momentos no tengo un porfolio, pero espero desarrollarlo pronto [Mi porfolio llegará algún día](http://esperese.como)
 * ✉️  Puedes contactar conmigo a traves de [noaperona@gmail.com](mailto:noaperona@gmail.com)
 * 🧠  Actualmente estoy aprendiendo Phyton y Java, y tengo en pendientes muuuucho más.
 * ⚡  Aunque mi primer trabajo con 18 fue de programadora de páginas web, usando HTML, un poco de JavaScrip y los inicios del CSS, solo estuve durante un año
